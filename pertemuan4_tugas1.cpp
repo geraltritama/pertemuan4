@@ -62,5 +62,5 @@ int main() {
     }
     cout << "Jumlah Bilangan Prima: " << jumlahPrima << endl;
 
-    return 0;  // Mengembalikan 0 menandakan bahwa program berjalan dengan baik
+    return 0;  
 }
